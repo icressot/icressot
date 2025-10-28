@@ -9,7 +9,7 @@
             margin-left: 50px; margin-right: 50px; margin-bottom:20px;}
             header:hover {background-color: pink;}
 
-body {font-family: courier;}
+body {font-family: courier; background-color: #b4dff4}
 
 footer {font-family: courier;
 font-style: italic;
